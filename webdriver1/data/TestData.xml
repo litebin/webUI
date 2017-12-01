@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<method name="testMethod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../config/TestData.xsd">
+	<parameters name="group1">
+		<parameter>0</parameter>
+		<parameter>1</parameter>
+		<parameter>1</parameter>
+	</parameters>
+	<parameters name="group2">
+		<parameter>1</parameter>
+		<parameter>2</parameter>
+		<parameter>3</parameter>
+	</parameters>
+	<parameters name="group23">
+		<parameter>11</parameter>
+		<parameter>22</parameter>
+		<parameter>33</parameter>
+	</parameters>	
+</method>
